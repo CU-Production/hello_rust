@@ -46,3 +46,7 @@ path = "examples/ch03/triangles.rs"
 [[example]] 
 name = "ch04_triangle" 
 path = "examples/ch04/triangle.rs" 
+
+[[example]] 
+name = "ch04_square_index" 
+path = "examples/ch04/square_index.rs" 
