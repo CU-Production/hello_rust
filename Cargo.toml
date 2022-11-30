@@ -17,6 +17,7 @@ log = "0.4"
 pollster = "0.2" 
 winit = "0.27" 
 anyhow = "1.0" 
+bytemuck = { version = "1.4", features = ["derive"] } 
 
 [[example]]
 name = "ch01_test01"
@@ -41,3 +42,7 @@ path = "examples/ch03/point_line.rs"
 [[example]]
 name = "ch03_triangles"
 path = "examples/ch03/triangles.rs"
+
+[[example]] 
+name = "ch04_triangle" 
+path = "examples/ch04/triangle.rs" 
