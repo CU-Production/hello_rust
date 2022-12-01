@@ -19,6 +19,7 @@ winit = "0.27"
 anyhow = "1.0" 
 bytemuck = { version = "1.4", features = ["derive"] } 
 futures-intrusive = "0.5"
+rand = "0.8"
 
 [[example]]
 name = "ch01_test01"
@@ -59,3 +60,7 @@ path = "examples/ch10/texture_cube.rs"
 [[example]]
 name = "ch13_rotate2d"
 path = "examples/ch13/rotate2d.rs"
+
+[[example]]
+name = "ch13_boids"
+path = "examples/ch13/boids.rs"
