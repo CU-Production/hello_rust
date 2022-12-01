@@ -18,6 +18,7 @@ pollster = "0.2"
 winit = "0.27" 
 anyhow = "1.0" 
 bytemuck = { version = "1.4", features = ["derive"] } 
+futures-intrusive = "0.5"
 
 [[example]]
 name = "ch01_test01"
@@ -54,3 +55,7 @@ path = "examples/ch04/square_index.rs"
 [[example]]
 name = "ch10_texture_cube"
 path = "examples/ch10/texture_cube.rs"
+
+[[example]]
+name = "ch13_rotate2d"
+path = "examples/ch13/rotate2d.rs"
