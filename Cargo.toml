@@ -68,3 +68,7 @@ path = "examples/ch13/boids.rs"
 [[example]]
 name = "ch13_attractors"
 path = "examples/ch13/attractors.rs"
+
+[[example]]
+name = "ch13_particles"
+path = "examples/ch13/particles.rs"
