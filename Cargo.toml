@@ -64,3 +64,7 @@ path = "examples/ch13/rotate2d.rs"
 [[example]]
 name = "ch13_boids"
 path = "examples/ch13/boids.rs"
+
+[[example]]
+name = "ch13_attractors"
+path = "examples/ch13/attractors.rs"
